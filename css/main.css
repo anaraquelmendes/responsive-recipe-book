@@ -1,0 +1,101 @@
+html {
+  background-color: #fff;
+  font-family: minerva-modern;
+}
+
+.serif {
+  font-family: playfair-display;
+}
+
+.main-title {
+  font-family: pacifico;
+  font-style: normal;
+}
+
+h1 a {
+  color: #ba0b16;
+  text-decoration: none;
+}
+
+.nav-recipe {
+  text-decoration: none;
+  color: #000;
+}
+
+.nav-recipe:hover {
+  color: #ba0b16;
+}
+
+.block {
+  display: block;
+}
+
+.btn {
+  border-radius: 4px;
+  border-color: #ba0b16;
+  background-color: #fff;
+  color: #000;
+}
+
+.subtitle {
+  text-decoration: underline;
+  color: #000;
+}
+
+.subtitle:hover {
+  color: #ba0b16;
+}
+
+.line {
+  border-top: .4px solid #ba0b16;
+}
+
+.line-b {
+  border-bottom: .4px solid #ba0b16;
+}
+
+.cover-banner {
+  background-image: url("../images/cover.jpg");
+  background-size: cover;
+  min-height: 30em;
+  background-position: center bottom;
+}
+
+.biscotti-banner {
+  background-image: url("../images/best-ever-biscotti.jpg");
+  background-size: cover;
+  min-height: 50em;
+  background-position: center center;
+}
+
+.brandy-banner {
+  background-image: url("../images/brandy-snaps.jpg");
+  background-size: cover;
+  min-height: 50em;
+  background-position: center bottom;
+}
+
+.trail-banner {
+  background-image: url("../images/trail-mix-cookies.jpg");
+  background-size: cover;
+  min-height: 50em;
+  background-position: center center;
+}
+
+.linzer-banner {
+  background-image: url("../images/linzer-cookies.jpg");
+  background-size: cover;
+  min-height: 50em;
+  background-position: center top;
+}
+
+.preface-banner {
+  background-image: url("../images/tree.jpg");
+  background-size: cover;
+  min-height: 30em;
+  background-position: center bottom;
+}
+
+.bold {
+  font-weight: bold;
+}
