@@ -36,11 +36,13 @@ h1 a {
   background-color: #fff;
   color: #000;
 }
+
 .btn:hover {
   border-color: #ba0b16;
   background-color: #ba0b16;
   color: #fff;
 }
+
 .subtitle {
   text-decoration: none;
   color: #000;
@@ -95,6 +97,13 @@ h1 a {
 
 .preface-banner {
   background-image: url("../images/tree.jpg");
+  background-size: cover;
+  min-height: 30em;
+  background-position: center bottom;
+}
+
+.contact-banner {
+  background-image: url("../images/contact-banner.jpg");
   background-size: cover;
   min-height: 30em;
   background-position: center bottom;
